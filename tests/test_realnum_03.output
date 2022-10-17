@@ -1,0 +1,7 @@
+{ , ERROR , 1}
+{ , DOT , 1}
+{a , ID , 1}
+{ , ERROR , 2}
+{ , DOT , 2}
+{ , ERROR , 2}
+{ , END_OF_FILE , 4}

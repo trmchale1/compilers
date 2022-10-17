@@ -1,0 +1,5 @@
+{ , ERROR , 1}
+{Ax0 , ID , 1}
+{0 , NUM , 2}
+{x08 , ID , 2}
+{ , END_OF_FILE , 4}

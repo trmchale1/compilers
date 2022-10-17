@@ -1,0 +1,5 @@
+{ , ERROR , 1}
+{ABCGx16 , ID , 1}
+{1x , BASE08NUM , 3}
+{ , ERROR , 3}
+{ , END_OF_FILE , 5}

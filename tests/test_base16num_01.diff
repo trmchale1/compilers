@@ -1,0 +1,8 @@
+1,4c1,2
+< {11x , BASE08NUM , 1}
+< { , ERROR , 1}
+< {134x , BASE08NUM , 2}
+< { , ERROR , 2}
+---
+> {11x16 , BASE16NUM , 1}
+> {134x16 , BASE16NUM , 2}
